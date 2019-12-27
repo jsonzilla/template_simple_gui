@@ -4,6 +4,12 @@
 > cmake -G "Visual Studio 16 2019" ../src
 ```
 
+```sh
+> cmake -G "Unix Makefiles" ../src
+> make 
+```
+
+
 # Plataform error
 If runnig you get a error for missing dlls
 Check the path to 
